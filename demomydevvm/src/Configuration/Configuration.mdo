@@ -364,9 +364,6 @@
   <catalogs>Catalog.ИсходящиеПисьма</catalogs>
   <catalogs>Catalog.ХранилищеВариантовОтчетов</catalogs>
   <catalogs>Catalog.Встречи</catalogs>
-  <catalogs>Catalog.Справочник1</catalogs>
-  <catalogs>Catalog.Справочник2</catalogs>
-  <catalogs>Catalog.Справочник3</catalogs>
   <documents>Document.Заказ</documents>
   <documents>Document.ОперацияПоУчетуТоваров</documents>
   <documents>Document.Оплата</documents>
